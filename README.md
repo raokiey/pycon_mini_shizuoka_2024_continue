@@ -10,4 +10,9 @@
 
 ## Notebook  
 Google Colaboratoryにて動作確認をしています。  
+↓のボタンをクリック  
+<a target="_blank" href="https://colab.research.google.com/github/raokiey/pycon_mini_shizuoka_2024_continue/blob/main/plateaukit_example.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 - [plateaukit_example.ipynb](./plateaukit_example.ipynb)  
